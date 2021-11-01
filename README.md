@@ -78,4 +78,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to read a book](https://desultory.info/how-to-read-a-book/)
+- [Creating jokes by violating Grice’s maxims](https://desultory.info/creating-jokes-by-violating-grices-maxims/)
+- [Euphemisms and Political correctness - the lies we use to shun reality](https://desultory.info/euphemisms-and-political-correctness-the-lies-we-use-to-shun-reality/)
+- [God ??](https://desultory.info/god/)
 <!-- BLOG-POST-LIST:END -->
