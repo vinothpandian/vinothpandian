@@ -16,11 +16,11 @@
 
 - 👯 I’m looking to collaborate on **any open source projects or HCI research!**
 
-- 👨‍💻 All of my projects are available at [vinoth.info](vinoth.info)
+- 👨‍💻 All of my projects are available at [vinoth.info](https://vinoth.info)
 
 - 📄 All of my research works are available at [ResearchGate](https://www.researchgate.net/profile/Vinoth-Pandian)
 
-- 📝 I regularly write articles on [desultory.info](desultory.info)
+- 📝 I regularly write articles on [desultory.info](https://desultory.info)
 
 - 💬 Ask me about **react, typescript or python**
 
