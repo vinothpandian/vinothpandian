@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Vinoth</h1>
-<h3 align="center">I'm a Full stack developer & a HCI Researcher from Bonn, Germany</h3>
+<h3 align="center">I'm a Full stack developer & a HCI Researcher from Toronto, Canada</h3>
 
 ---
 <h3 align="center">Connect with me:</h3>
