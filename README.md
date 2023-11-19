@@ -20,7 +20,7 @@
 
 - 📄 All of my research works are available at [ResearchGate](https://www.researchgate.net/profile/Vinoth-Pandian)
 
-- 📝 I regularly write articles on [desultory.info](https://desultory.info)
+- 📝 I regularly write articles on [blog.vinoth.info](https://blog.vinoth.info/)
 
 - 💬 Ask me about **react, typescript or python**
 
