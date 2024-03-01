@@ -12,7 +12,7 @@
 
 <br/>
 
-- 👯 I’m looking to collaborate on **any open source projects or HCI research!**
+- 🤝 I’m looking to collaborate on **any open source projects or HCI research!**
 
 - 👨‍💻 All of my projects are available at [vinoth.info](https://vinoth.info)
 
