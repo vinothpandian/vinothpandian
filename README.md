@@ -25,8 +25,3 @@
 - 📫 Reach out to me via [LinkedIn](https://linkedin.com/in/vinothpandian)
 
 <br/>
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinothpandian&show_icons=true&locale=en" alt="vinothpandian" />
-
-<br/>
